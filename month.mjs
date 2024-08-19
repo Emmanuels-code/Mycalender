@@ -1,0 +1,1 @@
+const monthEl = document.getElementById('month')

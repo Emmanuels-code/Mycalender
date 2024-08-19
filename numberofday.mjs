@@ -1,0 +1,1 @@
+const numberofdayEl = document.getElementById('numberofday')

@@ -1,0 +1,1 @@
+const dayNameEl = document.getElementById('day')
